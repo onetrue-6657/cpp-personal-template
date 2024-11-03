@@ -2,8 +2,6 @@
 using namespace std;
 typedef long long ll;
 typedef unsigned long long ull;
-typedef unsigned u32;
-typedef unsigned __int128 u128;
 
 int main()
 {
