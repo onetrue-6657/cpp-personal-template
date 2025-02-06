@@ -6,11 +6,21 @@ typedef long long ll;
 typedef unsigned long long ull;
 typedef std::pair<int, int> PII;
 
+int t;
+
+void solve()
+{
+}
+
 int main()
 {
     std::ios::sync_with_stdio(0);
     std::cin.tie(0);
     std::cout.tie(0);
+
+    std::cin >> t;
+    while (t--)
+        solve();
 
     return 0;
 }
